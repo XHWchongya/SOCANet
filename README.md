@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SOCANet: A Deep Learning Wetland Classification Strategy Based on Improved CNN and Attention Mechanism
 
 <p align="center">
@@ -16,7 +17,7 @@ SOCANet: A Deep Learning Wetland Classification Strategy Based on Improved CNN a
 
 Paper link:
 
-[Read Paper](https://your-paper-link)
+[Read Paper]([SOCANet: A Deep Learning Wetland Classification Strategy Based On Improved CNN and Attention Mechanism | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/document/11242976))
 
 ---
 
@@ -331,3 +332,6 @@ Email: xuhanwen22@gmail.com
 ## 13. License
 
 This project is released under the MIT License.
+=======
+# SOCANet
+>>>>>>> 6b8c4351b1a1258057d98f294c73c4c4d5992f95
