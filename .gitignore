@@ -1,0 +1,13 @@
+label/
+result/
+datasets/
+
+*.h5
+*.pth
+*.pt
+*.ckpt
+*.npy
+*.npz
+
+__pycache__/
+*.pyc
